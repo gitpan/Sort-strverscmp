@@ -21,7 +21,7 @@ my %WriteMakefileArgs = (
   "NAME" => "Sort::strverscmp",
   "PREREQ_PM" => {},
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.006",
+  "VERSION" => "0.007",
   "test" => {
     "TESTS" => "t/*.t"
   }

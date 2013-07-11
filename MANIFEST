@@ -7,3 +7,4 @@ README.md
 dist.ini
 lib/Sort/strverscmp.pm
 t/strverscmp.t
+util/benchmark.pl
