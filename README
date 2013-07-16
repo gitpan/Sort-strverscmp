@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Sort-strverscmp,
-version 0.009:
+version 0.010:
 
   Compare strings while treating digits characters numerically.
 
